@@ -1,5 +1,5 @@
 <img scr="https://github.com/user-attachments/assets/d06748b3-653d-44da-bd2e-213546fc9fab">
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/d06748b3-653d-44da-bd2e-213546fc9fab">
+<img align="center" alt="Coding" width="400" src="https://github.com/user-attachments/assets/d06748b3-653d-44da-bd2e-213546fc9fab">
 
 <h1 align="center">Hi 👋, I'm Kundan Kumar</h1>
 <h3 align="center">Python Developer | AI, ML & Data Analysis Enthusiast | Building Intelligent, Data-Driven Solutions</h3>
