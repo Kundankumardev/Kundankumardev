@@ -22,27 +22,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kundankumardev&show_icons=true&locale=en" alt="kundankumardev" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+I am a passionate Python developer with a strong interest in artificial intelligence (AI), machine learning (ML), and data analysis. With a background in Python programming and experience in freelancing, I specialize in building intelligent, data-driven solutions. My technical expertise extends to automation, efficient coding practices, and problem-solving.
+
+I have a B.Tech degree from A.K.T.U, IEC College, and have worked as a freelancer on Upwork, where I focused on Python-related projects. My journey in the tech world is driven by a constant desire to learn and innovate, especially in AI, machine learning, and data analysis.
+
+Apart from coding, I have experience in real estate sales, network marketing, and the stock market (with a focus on both intraday and long-term investments). I am also skilled in MS Excel, MS Docs, and Windows environments. In my free time, I enjoy programming, playing chess, listening to music, and engaging with new challenges in computer games.
