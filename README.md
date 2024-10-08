@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kundan Kumar</h1>
 <h3 align="center">Python Developer | AI, ML & Data Analysis Enthusiast | Building Intelligent, Data-Driven Solutions</h3>
-[<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpde9rfnu9gfjbfe5geua.gif)
+<img align="right" alt="Coding" width="400" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpde9rfnu9gfjbfe5geua.gif">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundankumardev&label=Profile%20views&color=0e75b6&style=flat" alt="kundankumardev" /> </p>
 
