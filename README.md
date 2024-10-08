@@ -1,4 +1,4 @@
-<img align="center" scr="https://www.signitysolutions.com/hs-fs/hubfs/Ai%20development%20CTA.gif?width=800&height=200&name=Ai%20development%20CTA.gif"
+<img align="center" scr="https://www.signitysolutions.com/hs-fs/hubfs/Ai%20development%20CTA.gif?width=800&height=200&name=Ai%20development%20CTA.gif">
 
 <h1 align="center">Hi 👋, I'm Kundan Kumar</h1>
 <h3 align="center">Python Developer | AI, ML & Data Analysis Enthusiast | Building Intelligent, Data-Driven Solutions</h3>
