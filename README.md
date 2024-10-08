@@ -1,4 +1,4 @@
-<img align="center" scr="https://www.signitysolutions.com/hs-fs/hubfs/Ai%20development%20CTA.gif?width=800&height=200&name=Ai%20development%20CTA.gif">
+<img align="center" scr="https://github.com/user-attachments/assets/d06748b3-653d-44da-bd2e-213546fc9fab">
 ![image](https://github.com/user-attachments/assets/d06748b3-653d-44da-bd2e-213546fc9fab)
 
 <h1 align="center">Hi 👋, I'm Kundan Kumar</h1>
